@@ -4,8 +4,6 @@ Release Date: Sept 2021
 ## Primary Contact
 **Xiao Gu**, xiao.gu17@imperial.ac.uk Imperial College London
 
-**Yao Guo**, yao.guo@sjtu.edu.cn Shanghai Jiao Tong University
-
 ## Citing
 Please cite the following paper for the use of this dataset
 
